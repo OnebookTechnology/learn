@@ -1,3 +1,5 @@
+一位etcd的棒子Core总结的Golang学习文档，大家有空可以多学习学习棒子思密达
+
 I am an endless, active learner. I embrace challenges beyond my current abilities
 to broaden my knowledge the most. I want to know a little about a lot,
 and a lot about little: my favorites are C++ and Go.
